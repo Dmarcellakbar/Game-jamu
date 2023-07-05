@@ -7,7 +7,7 @@ public class Menu : MonoBehaviour
 {
     public void OnPlayButton ()
     {
-        SceneManager.LoadScene("Play");
+        SceneManager.LoadScene("Pilih");
     }
     public void OnSettingButton ()
     {
